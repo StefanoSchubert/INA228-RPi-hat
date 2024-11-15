@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/home/stefano/OneDrive/Poli/Dottorato/Lavori vari/PCB/INA228/footprint/footprints.pretty")(options "")(descr ""))
+)
